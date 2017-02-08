@@ -4245,6 +4245,10 @@ jodid25519@^1.0.0:
   dependencies:
     jsbn "~0.1.0"
 
+joi-shortid@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/joi-shortid/-/joi-shortid-4.0.0.tgz#1d4eed5260d8d9932d706998a74807b69b68499f"
+
 joi@9.0.0-0:
   version "9.0.0-0"
   resolved "https://registry.yarnpkg.com/joi/-/joi-9.0.0-0.tgz#a7ca4219602149ae0da7a7c5ca1d63d3c79e096b"

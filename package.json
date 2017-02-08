@@ -164,6 +164,7 @@
     "electron-debug": "^1.1.0",
     "font-awesome": "^4.7.0",
     "joi": "^10.2.1",
+    "joi-shortid": "^4.0.0",
     "lokijs": "^1.4.2",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
